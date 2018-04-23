@@ -1,0 +1,7 @@
+setup.py
+strandtest.py
+playhat.egg-info/PKG-INFO
+playhat.egg-info/SOURCES.txt
+playhat.egg-info/dependency_links.txt
+playhat.egg-info/requires.txt
+playhat.egg-info/top_level.txt

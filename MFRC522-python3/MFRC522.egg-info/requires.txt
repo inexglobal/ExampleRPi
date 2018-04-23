@@ -1,0 +1,2 @@
+RPI.GPIO>=0.6
+spidev>=3.2
