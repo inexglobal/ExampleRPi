@@ -11,7 +11,7 @@ disp = Adafruit_SSD1306.SSD1306_128_64(rst=1)
 disp.begin()
 disp.clear()
 width = disp.width
-height = disp.height
+height = disp.height                        
 
 ''' # RPi pin name
 SDA = 8
